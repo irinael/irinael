@@ -21,7 +21,7 @@ A former lawyer 🎓 📕, now a software developer 💻 🌎, I discovered than
 
 Particular interest for Clean Code & Software Craftsmanship
 
-🇫🇷 🇫🇷 🇫🇷
+🇫🇷
 
 Anciennement juriste 🎓 📕, désormais développeuse  💻 🌎, reconvertie et convertie, j'ai découvert, avec la programmation, un puits inépuisable de connaissances, technos, savoir-faire et savoir-être, bonnes et mauvaises pratiques, et, surtout, les immenses joie et satisfaction d'apprendre et d'évoluer quotidiennement. Beaucoup reste à apprendre, et tant mieux ! 👍
 

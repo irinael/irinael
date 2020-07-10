@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🇬🇧 🇬🇧 🇬🇧
 
-A former lawyer 🎓 📕, now a software developer 💻 🌎, I discovered thanks to programming, a world full of knowledge, technologies, know-how, good and bad practices, and most importantly, the biggest joy and satisfaction from learning and getting better every single day. There is still so much to learn, and I hope it always will be ! 🤞
+
+A former lawyer 📕, now a software developer 💻, I discovered thanks to programming, a world full of knowledge, technologies, know-how, good and bad practices, and most importantly, the biggest joy and satisfaction from learning and getting better every single day. There is still so much to learn, and I hope it always will be ! 🤞
 
 Particular interest for Clean Code & Software Craftsmanship
 
-🇫🇷
+✨✨✨
 
-Anciennement juriste 🎓 📕, désormais développeuse  💻 🌎, reconvertie et convertie, j'ai découvert, avec la programmation, un puits inépuisable de connaissances, technos, savoir-faire et savoir-être, bonnes et mauvaises pratiques, et, surtout, les immenses joie et satisfaction d'apprendre et d'évoluer quotidiennement. Beaucoup reste à apprendre, et tant mieux ! 👍
+Anciennement juriste 📕, désormais développeuse  💻, reconvertie et convertie, j'ai découvert, avec la programmation, un puits inépuisable de connaissances, technos, savoir-faire et savoir-être, bonnes et mauvaises pratiques, et, surtout, les immenses joie et satisfaction d'apprendre et d'évoluer quotidiennement. Beaucoup reste à apprendre, et tant mieux ! 👍
 
 Intérêt particulier pour la qualité logicielle et l'artisanat du logiciel 
